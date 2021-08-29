@@ -16,7 +16,7 @@ To start exploring ZIG on BSC, head over to [ZIG Token Bridge](https://bridge.zi
 
 Go to [www.metamask.io](http://www.metamask.io/) and select from Android or iOS for mobile application and select Chrome for desktop. *(Source:* [*https://metamask.io/faqs.html*](https://metamask.io/faqs.html)*)*
 
-![Step1-add-MM](.images/gifs/Step1-add-MM.gif)
+![Step1-add-MM](.images/migrate_zig/gifs/Step1-add-MM.gif)
 
 ### **Step 2) Add Binance Smart Chain to Metamask, if you haven’t already —** Since BSC network is not available by default on Metamask, this step will demonstrate how to add it manually.
 
