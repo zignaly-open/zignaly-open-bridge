@@ -16,7 +16,7 @@ To start exploring ZIG on BSC, head over to [ZIG Token Bridge](https://bridge.zi
 
 Go to [www.metamask.io](http://www.metamask.io/) and select Android or iOS for mobile application and select Chrome for desktop. 
 
-*(Source:* [*https://metamask.io/faqs.html*](https://metamask.io/faqs.html)*)*
+![Step1-add-MM](.images/gifs/Step1-add-MM.gif)
 
 ![Step1-add-MM](.images/migrate_zig/gifs/Step1-add-MM.gif)
 
@@ -124,48 +124,4 @@ Click **Approve Now** button to grant required permissions to the bridge and Met
 
 Upon confirming the transaction, you will be ready to proceed with the ZIG ERC20-BSC transfer.
 
-## **Let’s jump ships from ERC20 to BSC**
-
-Enter the amount of ZIG you would like to transfer to BSC, and click **Convert Now**. 
-
-Make sure to have sufficient ETH to cover the gas fee.
-
-![Start-transfer-eth-bsc](.images/migrate_zig/gifs/Start-transfer-eth-bsc.gif)
-
-Click **Confirm** to pay the ETH gas fee and approve the transaction. At this point, the chain switch will commence.
-
-![Confirm_eth](.images/migrate_zig/gifs/Confirm_eth.gif)
-
-**Switch to BSC** in order to claim the transferred ZIG tokens.
-
-![Switch-bsc](.images/migrate_zig/gifs/Switch-bsc.gif)
-
-Once the network is switched to BSC, proceed to **Claim** the tokens against the BSC network gas fee.
-
-![Claim-zig-bsc](.images/migrate_zig/gifs/Claim-zig-bsc.gif)
-
-At this point, your ZIG tokens are successfully migrated to the BSC network.
-
-## In case you want to move your ZIG to the the Ethereum Mainnet
-
-Moving your ZIG back to ERC-20 is as easy as moving them to BSC.
-
-To initiate the process, go to the [Bridge](https://bridge.zignaly.com/).
-
-Enter the amount of ZIG that you would like to transfer to ERC-20, and click **Convert Now**.
-
-Make sure to have sufficient BNB to cover the gas fee.
-
-![Transfer-bsc-eth](.images/migrate_zig/gifs/Transfer-bsc-eth.gif)
-
-Confirm the transaction and pay the BSC gas fee to switch to the Ethereum Mainnet.
-
-![Switch-eth](.images/migrate_zig/gifs/Switch-eth.gif)
-
-Right now you’re back to the Ethereum Mainnet.
-
-Proceed to **Claim** the tokens and **Confirm** the transaction.
-
-![Claim-eth](.images/migrate_zig/gifs/Claim-eth.gif)
-
-At this point, your ZIG tokens are successfully migrated to the Ethereum Mainnet.
+**Let’s jump ships from ERC20 to BSC:**
