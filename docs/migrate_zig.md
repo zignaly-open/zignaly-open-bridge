@@ -1,6 +1,6 @@
 # How to migrate ZIG from Ethereum Mainnet to Binance Smart Chain
 
-![zignaly-bridge](.images/zignaly-bridge.png)
+![zignaly-bridge](.images/migrate_zig/zignaly-bridge.png)
 
 All you need to know on migrating your ZIG from Ethereum Mainnet to the Binance Smart Chain is described in the guide below.
 
@@ -18,7 +18,7 @@ Go to [www.metamask.io](http://www.metamask.io/) and select Android or iOS for m
 
 *(Source:* [*https://metamask.io/faqs.html*](https://metamask.io/faqs.html)*)*
 
-![Step1-add-MM](.images/Step1-add-MM.gif)
+![Step1-add-MM](.images/migrate_zig/gifs/Step1-add-MM.gif)
 
 ### **Step 2) Add Binance Smart Chain to MetaMask, if you haven’t already**
 
@@ -28,7 +28,7 @@ Open the **MetaMask** browser extension to begin.
 
 Expand the **Networks** selection menu and select **Custom RPC**.
 
-![Step2-RPC](.images/Step2-RPC.gif)
+![Step2-RPC](.images/migrate_zig/gifs/Step2-RPC.gif)
 
 Use the configurations shared below to populate the custom RPC form and click **Save** button:
 
@@ -46,7 +46,7 @@ Block Explorer URL: https://bscscan.com
 
 *(Source:* [*https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain*](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)*)*
 
-![Step2-bsc](.images/Step2-bsc-0247583.gif)
+![Step2-bsc](.images/migrate_zig/gifs/Step2-bsc-0247583.gif)
 
 Once done, **Smart Chain** should appear in the **Networks** list.
 
@@ -64,7 +64,7 @@ Decimal: 18
 
 *(Note: ‘Token symbol’ and ‘Decimal’ should be automatically detected upon entering the correct token contract address)*
 
-![Step3-add-zig-eth](.images/Step3-add-zig-eth.gif)
+![Step3-add-zig-eth](.images/migrate_zig/gifs/Step3-add-zig-eth.gif)
 
 **ZIG** should now appear under the asset list on Ethereum Mainnet.
 
@@ -82,7 +82,7 @@ Decimal: 18
 
 *(Note: ‘Token symbol’ and ‘Decimal’ should be automatically detected upon entering the correct token contract address)*
 
-![Step4-add-zig-bsc](.images/Step4-add-zig-bsc.gif)
+![Step4-add-zig-bsc](.images/migrate_zig/gifs/Step4-add-zig-bsc.gif)
 
 **ZIG** should now appear under the asset list on BSC Mainnet.
 
@@ -90,15 +90,15 @@ Decimal: 18
 
 Go to: https://bridge.zignaly.com/
 
-![Step5-url](.images/Step5-url.gif)
+![Step5-url](.images/migrate_zig/gifs/Step5-url.gif)
 
 Click **Connect Wallet** button in the top right corner, and select **MetaMask**.
 
-![Step5-connect-wallet](.images/Step5-connect-wallet.gif)
+![Step5-connect-wallet](.images/migrate_zig/gifs/Step5-connect-wallet.gif)
 
 Accept connection in MetaMask wallet:
 
-![Step5-accept-connection](.images/Step5-accept-connection.gif)
+![Step5-accept-connection](.images/migrate_zig/gifs/Step5-accept-connection.gif)
 
 At this point, the wallet is connected to the Bridge.
 
@@ -110,21 +110,21 @@ One-time setup cost included for ERC20 and BSC networks, hence the wallets shoul
 
 ERC20 — Make sure you are on the Ethereum Mainnet:
 
-![Step6-ethmainnet](.images/Step6-ethmainnet.gif)
+![Step6-ethmainnet](.images/migrate_zig/gifs/Step6-ethmainnet.gif)
 
 Click **Approve Now** button to grant required permissions to the bridge and MetaMask.
 
-![Step6-approve-eth](.images/Step6-approve-eth.gif)
+![Step6-approve-eth](.images/migrate_zig/gifs/Step6-approve-eth.gif)
 
 Upon clicking **Confirm** button, the gas fee should be deducted, granting the required permissions.
 
 Next, switch the network to BSC:
 
-![Step6-switch-bsc](.images/Step6-switch-bsc.gif)
+![Step6-switch-bsc](.images/migrate_zig/gifs/Step6-switch-bsc.gif)
 
 Click **Approve Now** button to grant required permissions to the bridge and MetaMask.
 
-![Step6-approve-bsc](.images/Step6-approve-bsc.gif)
+![Step6-approve-bsc](.images/migrate_zig/gifs/Step6-approve-bsc.gif)
 
 Upon confirming the transaction, you will be ready to proceed with the ZIG ERC20-BSC transfer.
 
@@ -134,19 +134,19 @@ Enter the amount of ZIG you would like to transfer to BSC, and click **Convert N
 
 Make sure to have sufficient ETH to cover the gas fee.
 
-![Start-transfer-eth-bsc](.images/Start-transfer-eth-bsc.gif)
+![Start-transfer-eth-bsc](.images/migrate_zig/gifs/Start-transfer-eth-bsc.gif)
 
 Click **Confirm** to pay the ETH gas fee and approve the transaction. At this point, the chain switch will commence.
 
-![Confirm_eth](.images/Confirm_eth.gif)
+![Confirm_eth](.images/migrate_zig/gifs/Confirm_eth.gif)
 
 **Switch to BSC** in order to claim the transferred ZIG tokens.
 
-![Switch-bsc](.images/Switch-bsc.gif)
+![Switch-bsc](.images/migrate_zig/gifs/Switch-bsc.gif)
 
 Once the network is switched to BSC, proceed to **Claim** the tokens against the BSC network gas fee.
 
-![Claim-zig-bsc](.images/Claim-zig-bsc.gif)
+![Claim-zig-bsc](.images/migrate_zig/gifs/Claim-zig-bsc.gif)
 
 At this point, your ZIG tokens are successfully migrated to the BSC network.
 
@@ -160,16 +160,16 @@ Enter the amount of ZIG that you would like to transfer to ERC-20, and click **C
 
 Make sure to have sufficient BNB to cover the gas fee.
 
-![Transfer-bsc-eth](.images/Transfer-bsc-eth.gif)
+![Transfer-bsc-eth](.images/migrate_zig/gifs/Transfer-bsc-eth.gif)
 
 Confirm the transaction and pay the BSC gas fee to switch to the Ethereum Mainnet.
 
-![Switch-eth](.images/Switch-eth.gif)
+![Switch-eth](.images/migrate_zig/gifs/Switch-eth.gif)
 
 Right now you’re back to the Ethereum Mainnet.
 
 Proceed to **Claim** the tokens and **Confirm** the transaction.
 
-![Claim-eth](.images/Claim-eth.gif)
+![Claim-eth](.images/migrate_zig/gifs/Claim-eth.gif)
 
 At this point, your ZIG tokens are successfully migrated to the Ethereum Mainnet.
